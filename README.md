@@ -1,4 +1,4 @@
-# TradeGPT Auto Bot 🤖
+# TradeGPT Auto Bot
 
 An automated bot for interacting with TradeGPT Finance, performing swaps, and earning points on the 0G Testnet.
 
