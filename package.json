@@ -1,0 +1,48 @@
+{
+  "name": "tradegpt-auto-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for interacting with TradeGPT Finance on 0G Testnet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "tradegpt",
+    "0g",
+    "testnet",
+    "bot",
+    "automation",
+    "defi",
+    "web3",
+    "ethereum",
+    "airdrops"
+  ],
+  "author": "vikitoshi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "ethers": "^6.10.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-node": "^11.1.0",
+    "prettier": "^3.2.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikitoshi/TradeGPT-Auto-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vikitoshi/TradeGPT-Auto-Bot/issues"
+  },
+  "homepage": "https://github.com/vikitoshi/TradeGPT-Auto-Bot#readme"
+}
